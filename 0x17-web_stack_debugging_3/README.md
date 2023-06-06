@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 0x15. API
+# 0x17. Web stack debugging #3
 
 ## Table of Contents
 * [About](#about)
@@ -12,13 +12,10 @@
 * [Author](#author)
 
 ## About
-In this project, I learned what an **API** is.
+This is another web debugging project. I diagnosed and fixed an internal server error.
 
 ## Files
-* `0-gather_data_from_an_API.py`
-* `1-export_to_CSV.py`
-* `2-export_to_JSON.py`
-* `3-dictionary_of_list_of_dictionaries.py`
+* `0-strace_is_your_friend.pp`
 * `README.md`
 
 ## Author

@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 0x15. API
+# 0x19. Postmortem
 
 ## Table of Contents
 * [About](#about)
@@ -12,13 +12,11 @@
 * [Author](#author)
 
 ## About
-In this project, I learned what an **API** is.
+This project required me to write my first **postmortem**. I wrote about the time I accidentally locked myself out of my virtual machine for three days.
+
+[Read the postmortem here.](https://docs.google.com/document/d/1nXSHVMQ4c2o2uWTKRK6EQsClog7ULNmCZMTJGAZ2QNk/edit#heading=h.vmgfk3n8bqe3)
 
 ## Files
-* `0-gather_data_from_an_API.py`
-* `1-export_to_CSV.py`
-* `2-export_to_JSON.py`
-* `3-dictionary_of_list_of_dictionaries.py`
 * `README.md`
 
 ## Author

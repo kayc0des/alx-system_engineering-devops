@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 0x15. API
+# 0x16. API advanced
 
 ## Table of Contents
 * [About](#about)
@@ -12,13 +12,13 @@
 * [Author](#author)
 
 ## About
-In this project, I learned what an **API** is.
+In this project, I got more practie with **APIs** by using the [Reddit API](https://www.reddit.com/dev/api/).
 
 ## Files
-* `0-gather_data_from_an_API.py`
-* `1-export_to_CSV.py`
-* `2-export_to_JSON.py`
-* `3-dictionary_of_list_of_dictionaries.py`
+* `0-subs.py`
+* `1-top_ten.py`
+* `2-recurse.py`
+* `100-count.py`
 * `README.md`
 
 ## Author

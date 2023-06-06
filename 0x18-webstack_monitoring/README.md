@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 0x15. API
+# 0x18. Webstack monitoring
 
 ## Table of Contents
 * [About](#about)
@@ -12,13 +12,10 @@
 * [Author](#author)
 
 ## About
-In this project, I learned what an **API** is.
+In this project, I learned how to perform webstack monitoring using **Datadog**.
 
 ## Files
-* `0-gather_data_from_an_API.py`
-* `1-export_to_CSV.py`
-* `2-export_to_JSON.py`
-* `3-dictionary_of_list_of_dictionaries.py`
+* `2-setup_datadog`
 * `README.md`
 
 ## Author
