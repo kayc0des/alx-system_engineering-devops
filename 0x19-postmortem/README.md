@@ -12,23 +12,13 @@
 * [Author](#author)
 
 ## About
-This project required me to write my first **postmortem**. I wrote about the time I accidentally locked myself out of my virtual machine for three days.
+This project required me to write my first **postmortem**. 
 
-[Read the postmortem here.](https://docs.google.com/document/d/1nXSHVMQ4c2o2uWTKRK6EQsClog7ULNmCZMTJGAZ2QNk/edit#heading=h.vmgfk3n8bqe3)
+[Read the postmortem here.](https://docs.google.com/document/d/1T-zUjshCU-0ooDeTzCMj-SxnNZShjnbD2hNbf-NLSJs/edit?usp=sharing)
 
 ## Files
 * `README.md`
 
 ## Author
-Justin Masayda [@keysmusician](https://github.com/keysmusician)
-<div align="center">
-<pre>
-        _   _       _   _   _       _   _       _   _   _     
-    ___//|_//|_____//|_//|_//|_____//|_//|_____//|_//|_//|___ 
-   /  /// ///  /  /// /// ///  /  /// ///  /  /// /// ///  / |
-  /  ||/ ||/  /  ||/ ||/ ||/  /  ||/ ||/  /  ||/ ||/ ||/  / / 
- /___/___/___/___/___/___/___/___/___/___/___/___/___/___/ /  
- |___|___|___|___|___|___|___|___|___|___|___|___|___|___|/   
- 
-</pre>
-</div>
+Kingsley Budu [@kayc0des](https://github.com/kayc0des)
+
