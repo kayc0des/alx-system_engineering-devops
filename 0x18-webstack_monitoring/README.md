@@ -19,7 +19,7 @@ In this project, I learned how to perform webstack monitoring using **Datadog**.
 * `README.md`
 
 ## Author
-Kayc0des [@keysmusician](https://github.com/kayc0des)
+Kingsley Budu [@kayc0des](https://github.com/kayc0des)
 <div align="center">
 <pre>
         _   _       _   _   _       _   _       _   _   _     
